@@ -2,6 +2,8 @@
 
 ### Open-Source Contributions
 
+* https://github.com/ceph/ceph/pull/46344
+* https://github.com/ceph/ceph/pull/47731
 * 
 
 <!--
