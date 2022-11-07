@@ -5,6 +5,8 @@
 * https://github.com/ceph/ceph/pull/46344
 * https://github.com/ceph/ceph/pull/47731
 * https://github.com/torvalds/linux/commit/c745dfc541e78428ba3986f1d17fe1dfdaca8184
+* https://github.com/Seagate/SystemsRedfishPy/pull/11
+* https://github.com/Seagate/SystemsRedfishPy/pull/12
 
 <!--
 **mjenglish/mjenglish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
